@@ -119,7 +119,7 @@ fun Welcome(
             Spacer(modifier = Modifier.height(95.dp))
 
             Text(
-                text="Designed by Yong Zheng Ryan Tan (33141673)",
+                text="Designed by Yong Zheng Ryan Tan",
                 fontSize = 14.sp
             )
 
