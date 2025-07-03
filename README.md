@@ -59,7 +59,7 @@ A login page for clinicians to access the clinician dashboard, requires a predef
 
 
 ### Clinician dashboard page
-This page allows the user to gain an insight into the overall nutritional data of all users combined. The table provides the average HEIF scores of males and females. The 'find data pattern' button utilises Gemini API to analyse all user scores and identify patterns within the dataset. The 'exit dashboard' button simply logs the user out from the clinician role and redirects them to the settings page. 
+This page allows the user to gain an insight into the overall nutritional data of all users combined. The table provides the average HEIF scores of males and females. The 'find data pattern' button utilises Gemini API to analyse all user scores and identify patterns within the dataset. The 'exit dashboard' button simply logs the user out from the clinician role and redirects them to the home page. 
 
 https://github.com/user-attachments/assets/c5f949ef-6e86-4825-9bb8-50ccb7ebf155
 
